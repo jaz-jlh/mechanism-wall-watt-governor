@@ -1,4 +1,6 @@
-Code primarily developed by Alex Zammitti and Jaz Harnal for UVA's Mechatronics Mechanism Wall. In particular, this code controls a demonstration mechanism which teaches users about the operation of a Watt Centrifugal Governor. This project is an effort by Gavin Garner, our mechatronics professor. In the case of the Mechanism Wall not being completed this year, extensive commenting of the code and the following readme were provided to future contributors.
+#Mechatronics Mechanism Wall: Watt Governor
+
+###Code primarily developed by Alex Zammitti and Jaz Harnal for UVA's Mechatronics Mechanism Wall. In particular, this code controls a demonstration mechanism which teaches users about the operation of a Watt Centrifugal Governor. This project is an effort by Gavin Garner, our mechatronics professor. In the case of the Mechanism Wall not being completed this year, extensive commenting of the code and the following readme were provided to future contributors.
 
 The readme.txt provided to future students:
 
